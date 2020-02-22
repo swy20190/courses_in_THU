@@ -1,0 +1,4 @@
+﻿  2.3.cpp
+c:\users\swy\desktop\dsa\himework2.3\himework2.3\2.3.cpp(63): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  himework2.3.vcxproj -> C:\Users\swy\Desktop\dsa\himework2.3\Debug\himework2.3.exe
+  himework2.3.vcxproj -> C:\Users\swy\Desktop\dsa\himework2.3\Debug\himework2.3.pdb (Full PDB)

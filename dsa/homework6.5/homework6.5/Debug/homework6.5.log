@@ -1,0 +1,8 @@
+﻿  6.5.cpp
+c:\users\swy\desktop\dsa\homework6.5\homework6.5\6.5.cpp(135): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  c:\users\swy\desktop\dsa\homework6.5\homework6.5\6.5.cpp(135): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  c:\users\swy\desktop\dsa\homework6.5\homework6.5\6.5.cpp(135): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  c:\users\swy\desktop\dsa\homework6.5\homework6.5\6.5.cpp(135): note: 此参数用作缓冲区大小
+c:\users\swy\desktop\dsa\homework6.5\homework6.5\6.5.cpp(102): warning C4715: “find”: 不是所有的控件路径都返回值
+  homework6.5.vcxproj -> C:\Users\swy\Desktop\dsa\homework6.5\Debug\homework6.5.exe
+  homework6.5.vcxproj -> C:\Users\swy\Desktop\dsa\homework6.5\Debug\homework6.5.pdb (Full PDB)

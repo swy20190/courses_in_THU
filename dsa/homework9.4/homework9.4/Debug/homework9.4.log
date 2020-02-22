@@ -1,0 +1,7 @@
+﻿  9.4.cpp
+c:\users\swy\desktop\dsa\homework9.4\homework9.4\9.4.cpp(203): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  c:\users\swy\desktop\dsa\homework9.4\homework9.4\9.4.cpp(203): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  c:\users\swy\desktop\dsa\homework9.4\homework9.4\9.4.cpp(203): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  c:\users\swy\desktop\dsa\homework9.4\homework9.4\9.4.cpp(203): note: 此参数用作缓冲区大小
+  homework9.4.vcxproj -> C:\Users\swy\Desktop\dsa\homework9.4\Debug\homework9.4.exe
+  homework9.4.vcxproj -> C:\Users\swy\Desktop\dsa\homework9.4\Debug\homework9.4.pdb (Full PDB)
